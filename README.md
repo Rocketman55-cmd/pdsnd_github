@@ -5,7 +5,7 @@
 Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This is a Python project that analyzes bikeshare data from three different cities and displays information such as duration of bike rides, start and stop stations, common days and months for rides, etc.
 
 ### Files used
 Include the files used
