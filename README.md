@@ -8,8 +8,8 @@ Bikeshare Project
 This is a Python project that analyzes bikeshare data from three different cities and displays information such as duration of bike rides, start and stop stations, common days and months for rides, etc.
 
 ### Files used
-Include the files used
+bikeshare.py
+Readme.txt
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I used some helpful python websites to assist me in creating the functions necessary for this project 
